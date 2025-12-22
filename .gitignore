@@ -1,0 +1,74 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.env
+.venv/
+venv/
+env/
+
+# =========================
+# Streamlit
+# =========================
+.streamlit/secrets.toml
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# =========================
+# Logs & runtime
+# =========================
+logs/
+*.log
+
+# =========================
+# Images & media (generated)
+# =========================
+images/
+imgs/
+output_images/
+results_images/
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tiff
+*.gif
+
+# =========================
+# Runs / experiments
+# =========================
+runs/
+runs/*
+experiments/
+outputs/
+predictions/
+
+
+# =========================
+# Data (raw / processed)
+# =========================
+data/
+datasets/
+processed/
+annotations/
+labels/
+
+# =========================
+# Temporary files
+# =========================
+tmp/
+cache/
+*.tmp
+
