@@ -10,6 +10,7 @@ __pycache__/
 .venv/
 venv/
 env/
+.ipynb_checkpoints/
 
 # =========================
 # Streamlit
@@ -36,7 +37,10 @@ logs/
 # Images & media (generated)
 # =========================
 images/
+images_hp/
 imgs/
+runs/
+runs_hp/
 output_images/
 results_images/
 *.png
